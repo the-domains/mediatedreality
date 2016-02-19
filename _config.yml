@@ -1,14 +1,26 @@
-layout_spectrum: 0.421147
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.06810036
+  saturation: 0.5268817
   brandStrength: 0.3333333
-  lightness: 1
+  lightness: 0.04121864
   brandColors:
     - '#DED8F1'
     - '#4B536F'
     - '#7687A4'
     - '#4BB4E1'
     - '#C69AAC'
-  rhythmicContrast: 0.2150538
-typography_spectrum: 0.3673835
+  rhythmicContrast: 0.4390681
+typography_spectrum: 0.6953405
+layout_spectrum: 0.5340502
 name: MediatedReality
