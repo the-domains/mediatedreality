@@ -2,19 +2,19 @@
     <channel>
         <title><![CDATA[MediatedReality]]></title>
         <description><![CDATA[MediatedReality]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mediatedreality/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 05:02:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 05:03:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mediatedreality/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>As
  social media has embedded into our society, the trends and trials of 
 online sharing have entered many different learning environments causing
  positivity for some and chaos for others.</p>]]></description>
-            <link>undefined25c73613-0a54-4bdd-85b0-e65e3e488eb5/index.html</link>
+            <link>https://thegrid.ai/mediatedreality/25c73613-0a54-4bdd-85b0-e65e3e488eb5/index.html</link>
             <guid isPermaLink="false">25c73613-0a54-4bdd-85b0-e65e3e488eb5</guid>
-            <pubDate>Fri, 19 Feb 2016 05:02:04 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 05:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
