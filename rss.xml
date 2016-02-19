@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MediatedReality]]></title>
+        <description><![CDATA[MediatedReality]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 05:02:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>As
+ social media has embedded into our society, the trends and trials of 
+online sharing have entered many different learning environments causing
+ positivity for some and chaos for others.</p>]]></description>
+            <link>undefined25c73613-0a54-4bdd-85b0-e65e3e488eb5/index.html</link>
+            <guid isPermaLink="false">25c73613-0a54-4bdd-85b0-e65e3e488eb5</guid>
+            <pubDate>Fri, 19 Feb 2016 05:02:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
